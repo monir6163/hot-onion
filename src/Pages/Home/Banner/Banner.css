@@ -1,0 +1,7 @@
+.banner {
+  background-image: url('../../../Images/background/bannerbackground.png');
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 70vh;
+  padding: 100px 0;
+}

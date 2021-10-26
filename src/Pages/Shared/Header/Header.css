@@ -1,0 +1,12 @@
+.badge {
+    font-size: 17px!important;
+    padding: 0!important;
+    top: -6px!important;
+    width: 15px!important;
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: top;
+}
+.bg-nav {
+    background-color: #FCF4E0;
+}

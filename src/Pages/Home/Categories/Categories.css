@@ -1,0 +1,16 @@
+button.active {
+    background-color: #dc3545 !important;
+    color: #fff !important;
+    border: 1px solid #dc3545;
+    border-radius: 5px;
+}
+
+.nav-link{
+    color: #333 !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.nav-tabs{
+    border-bottom: 0 !important;
+}
